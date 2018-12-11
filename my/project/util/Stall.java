@@ -1,4 +1,4 @@
-package package01;
+package my.project.util;
 
 public class Stall {
 
